@@ -1,0 +1,13 @@
+# R files
+.Rproj.user/
+*Rproj
+.Rhistory
+.RData
+
+# Temp files
+*.utf8.md
+*.knit.md
+
+# Unused template files
+index.html
+index.Rmd
