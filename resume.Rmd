@@ -101,7 +101,7 @@ Disclaimer {#disclaimer}
 
 Made w/ [**pagedown**](https://github.com/rstudio/pagedown). 
 
-Source code: [github.com/nstrayer/cv](https://github.com/nstrayer/cv).
+Source code: [github.com/shreyankpatil/shreyank-cv](https://github.com/shreyankpatil/shreyank-cv).
 
 Last updated on `r Sys.Date()`.
 
