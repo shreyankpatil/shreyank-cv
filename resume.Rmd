@@ -58,9 +58,8 @@ Contact Details {#contact}
 
 
 - <i class="fa fa-envelope"></i> shreyankpatil@gmail.com
-- <i class="fa fa-linkedin"></i> [shreyankpatil](www.linkedin.com/in/shreyankpatil)
 - <i class="fa fa-phone"></i> +64278407388
-
+- <i class="fa fa-linkedin"></i> [shreyankpatil](www.linkedin.com/in/shreyankpatil)
 
 
 Language Skills {#skills}
@@ -79,22 +78,6 @@ skills <- dplyr::tribble(
 build_skill_bars(skills)
 ```
 
-<!-- Open Source Contributions {#open-source} -->
---------------------------------------------------------------------------------
-
-<!-- All projects available at `github.com/nstrayer/<name>` -->
-
-
-<!-- - `shinysense`: R package to use sensor data in Shiny apps -->
-<!-- - `tuftesque`: Hugo theme (behind LiveFreeOrDichotomize.com) -->
-<!-- - `slid3r`: D3 add-on for fully svg slider inputs -->
-
-
-<!-- More info {#more-info} -->
-<!-- -------------------------------------------------------------------------------- -->
-
-<!-- See full CV at nickstrayer.me/cv for more complete list of positions and publications. -->
-
 
 Disclaimer {#disclaimer}
 --------------------------------------------------------------------------------
@@ -104,7 +87,6 @@ Made w/ [**pagedown**](https://github.com/rstudio/pagedown).
 Source code: [github.com/shreyankpatil/shreyank-cv](https://github.com/shreyankpatil/shreyank-cv).
 
 Last updated on `r Sys.Date()`.
-
 
 
 

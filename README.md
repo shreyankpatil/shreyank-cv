@@ -1,4 +1,7 @@
+
 ## My pagedown rendered CV
+
+Cloned from https://github.com/nstrayer/cv/releases/tag/1.0
 
 This repo contains the source-code and results of my CV built with the [pagedown package](https://pagedown.rbind.io) and a modified version of the 'resume' template. 
 
