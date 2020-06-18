@@ -12,7 +12,7 @@ The main files are:
 - `resume.Rmd`: Source template for single page resume. 
 - `parsing_functions.R`: A series of small functions for parsing a position entry into the proper HTML format. Includes logic for removing links if needed etc..
 - `common_variables.R`: Holds small variables that don't make sense for the CSV format such as the intro text and the language skill bars. 
-- `shreyank-cv.pdf`: Result for single page resume.
+- `resume.pdf`: Result for single page resume.
 - `positions.csv`: A csv with columns encoding the various fields needed for a position entry in the CV. A column `section` is also available so different sections know which rows to use.
 - `css/`: Directory containing the custom CSS files used to tweak the default 'resume' format from pagedown. 
 
