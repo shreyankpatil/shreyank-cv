@@ -120,7 +120,7 @@ cat(sanitize_links(intro_text))
 
 
 
-Education {data-concise=true}
+Education {data-icon=graduation-cap, data-concise=true}
 --------------------------------------------------------------------------------
 
 ```{r}
