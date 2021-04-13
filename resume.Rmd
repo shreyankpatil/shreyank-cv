@@ -73,8 +73,9 @@ skills <- dplyr::tribble(
   "Python",            4.5,
   "R",                  4,
   "SQL",                3.5,
-  "Bash",               3,
-  "git",                3
+  "Bash",               3.5,
+  "Docker",             3.5, 
+  "AWS/Cloud",          3
 )
 build_skill_bars(skills)
 ```
@@ -113,7 +114,7 @@ position_data %>% print_section('education')
 
 
 
-Work Experience {data-icon=suitcase}
+Industry Experience {data-icon=suitcase}
 --------------------------------------------------------------------------------
 
 ```{r}
