@@ -71,11 +71,12 @@ Language Skills {#skills}
 skills <- dplyr::tribble(
   ~skill,               ~level,
   "Python",            4.5,
-  "R",                  4,
-  "SQL",                3.5,
-  "Bash",               3.5,
-  "Docker",             3.5, 
-  "AWS/Cloud",          3
+  "SQL",                4,
+  "Docker",             4, 
+  "AWS/Cloud",          3.5,
+  "R",                  3.5,
+  "Bash",               3.5
+
 )
 build_skill_bars(skills)
 ```
