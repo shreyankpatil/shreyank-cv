@@ -59,7 +59,7 @@ Contact Details {#contact}
 
 
 - <i class="fa fa-envelope"></i> shreyankpatil@gmail.com
-- <i class="fa fa-phone"></i> +64278407388
+- <i class="fa fa-phone"></i> +61451832600
 - <i class="fa fa-linkedin"></i> [shreyankpatil](www.linkedin.com/in/shreyankpatil)
 
 
@@ -73,9 +73,9 @@ skills <- dplyr::tribble(
   "Python",            4.5,
   "SQL",                4,
   "Docker",             4, 
-  "AWS/Cloud",          3.5,
-  "R",                  3.5,
-  "Bash",               3.5
+  "AWS/Cloud",          4,
+  "Bash",                  3.5,
+  "R",               3
 
 )
 build_skill_bars(skills)
